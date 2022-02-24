@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: proufuk52.github.io
+Token: 226aa4e88f65cbeaf6d00314b7001780a83753ea48454e0fcbcc74492a6c4871
